@@ -1,0 +1,9 @@
+.contato_item{
+    list-style-position: inside;
+    text-align: center;
+    margin: 0.7em auto;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-color: #eeade6;
+    width: 50%;
+}

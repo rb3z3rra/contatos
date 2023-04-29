@@ -1,0 +1,15 @@
+.contato-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contato-form button {
+  display: block;
+  width: 30%;
+  margin: 0 auto;
+  height: 1.5em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  color: white;
+}
