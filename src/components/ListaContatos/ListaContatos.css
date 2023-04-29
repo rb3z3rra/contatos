@@ -1,6 +1,7 @@
 .main {
   width: 80%;
   height: 80%;
+  background-color: #1b1b32;
 }
 
 .informaContato {
@@ -15,6 +16,9 @@
   flex-direction: column;
   margin: 0.5rem 0;
   align-items: center;
+  color: wheat;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
 }
 
 .informaContato label input{
